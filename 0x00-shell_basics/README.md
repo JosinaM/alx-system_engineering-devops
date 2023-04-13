@@ -8,4 +8,5 @@ mkdir /tmp/my_first_directory. Creates diarectory.
 move files mv /tmp/betty /tmp/my_first_directory.
 Bye bye Betty
 rmdir /tmp/my_first_directory deletes directy.
-cd .. changes the working directory to the previous one
+cd .. changes the working directory to the previous one.
+ls -al . .. /boot command that lists files.
