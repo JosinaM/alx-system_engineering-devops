@@ -5,3 +5,4 @@ ls -l display current directory contents in a long format.
 ls -lan displays current directory contents, including hidden files.
 ls -aln displays current directory contents in long format and num order.
 mkdir /tmp/my_first_directory. Creates diarectory.
+move files mv /tmp/betty /tmp/my_first_directory.
