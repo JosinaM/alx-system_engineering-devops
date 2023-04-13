@@ -10,3 +10,4 @@ Bye bye Betty
 rmdir /tmp/my_first_directory deletes directy.
 cd .. changes the working directory to the previous one.
 ls -al . .. /boot command that lists files.
+file /tmp/iamafile prints files
