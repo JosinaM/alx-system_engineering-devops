@@ -7,3 +7,4 @@ ls -aln displays current directory contents in long format and num order.
 mkdir /tmp/my_first_directory. Creates diarectory.
 move files mv /tmp/betty /tmp/my_first_directory.
 Bye bye Betty
+rmdir /tmp/my_first_directory deletes directy.
